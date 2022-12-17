@@ -1,7 +1,3 @@
-import java.security.KeyStore.TrustedCertificateEntry;
-
-import javax.swing.plaf.TreeUI;
-
 /*
  * 	논리연산자: &&, || ==> 결과값이 항상 boolean(true/false)
  * 	 		(조건) && (조건)
